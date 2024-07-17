@@ -1,0 +1,10 @@
+body{
+  background-color: aliceblue;
+  color: rebeccapurple;
+}
+
+.playArea >div> button{
+  border-width: 0px;
+  background-color: aliceblue;
+}
+
